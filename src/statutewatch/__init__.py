@@ -1,1 +1,1 @@
-"""statutewatch baseline (single-responsibility pipeline)."""
+"""statutewatch package (single-responsibility pipeline)."""

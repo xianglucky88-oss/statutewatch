@@ -1,0 +1,56 @@
+{
+  "batch": {
+    "batch_id": "b-2026-10",
+    "source": "offline-fixture",
+    "note": "十月首次采集"
+  },
+  "documents": [
+    {
+      "doc_id": "d-air-v1",
+      "title": "大气污染物排放管理办法",
+      "authority": "省生态环境厅",
+      "doc_number": "环规〔2026〕7号",
+      "url": "https://old.example.gov.cn/air-2026-7.pdf",
+      "published_at": "2026-10-01",
+      "body_text": "第一条 为防治大气污染，制定本办法。\n第二条 排放限值为每立方米50毫克，不得超标排放。\n第三条 监测频率为每季度一次。\n第四条 本办法自2026年11月1日起施行。",
+      "attachments": [
+        {"name": "限值附表.pdf", "url": "https://old.example.gov.cn/air-table.pdf", "sha256": "a1b2c3", "size": 1024}
+      ]
+    },
+    {
+      "doc_id": "d-noise-v1",
+      "title": "噪声污染防治细则",
+      "authority": "市城管局",
+      "doc_number": "城管〔2026〕12号",
+      "url": "https://old.example.gov.cn/noise.pdf",
+      "published_at": "2026-10-05",
+      "body_text": "第一条 昼间噪声不得超过60分贝。\n第二条 夜间噪声不得超过50分贝，禁止夜间施工。\n第三条 投诉受理时限为5个工作日。"
+    },
+    {
+      "doc_id": "d-clash-a",
+      "title": "市容管理规定",
+      "authority": "甲市城管局",
+      "doc_number": "甲城〔2026〕3号",
+      "url": "https://a.example.gov.cn/rule.pdf",
+      "published_at": "2026-10-10",
+      "body_text": "第一条 甲市市容管理适用本规定。"
+    },
+    {
+      "doc_id": "d-clash-b",
+      "title": "市容管理规定",
+      "authority": "乙市城管局",
+      "doc_number": "乙城〔2026〕9号",
+      "url": "https://b.example.gov.cn/rule.pdf",
+      "published_at": "2026-10-11",
+      "body_text": "第一条 乙市市容管理适用本规定。"
+    },
+    {
+      "doc_id": "d-anon",
+      "title": "",
+      "authority": "",
+      "url": "https://old.example.gov.cn/anon.pdf",
+      "published_at": "2026-10-12",
+      "body_text": "第一条 本文件发布机关与文号缺失。"
+    }
+  ]
+}
